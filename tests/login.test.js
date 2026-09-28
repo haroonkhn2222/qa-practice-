@@ -4,4 +4,4 @@ test("valid login should pass", () => {
 
     expect(username).toBe("qa_user");
     expect(password).toBe("12345");
-});
+})];
